@@ -23,7 +23,7 @@ In multi-class classification, the neural network has the same number of output 
 
 ## PROGRAM:
 
-python
+```python
 
 #Program to implement the multi class classifier.
 #Developed by: Vigneshwar S
@@ -44,7 +44,7 @@ for label,_ in counter.items():
     pyplot.scatter(X[row_ix,0],X[row_ix,1],label=str(label))
 pyplot.legend()
 pyplot.show()
-
+```
 
 ## OUTPUT:
 ![multi](https://user-images.githubusercontent.com/77089276/164721835-167fc82c-c56a-461a-8201-d00ed83a7d59.jpeg)
