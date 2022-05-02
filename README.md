@@ -1,4 +1,4 @@
-### EX-03
+### EXNO:03
 ### Date:
 # <p align="center"> MULTI-CLASS-CLASSIFICATION</p>
 ## AIM:
